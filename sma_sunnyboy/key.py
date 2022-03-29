@@ -40,3 +40,4 @@ class Key:
 	device_state = {'tag': '6180_084B1E00', 'unit': 'W'}
 	device_warning = {'tag': '6100_00411F00', 'unit': 'W'}
 	device_error = {'tag': '6100_00412000', 'unit': 'W'}
+	grid_power = {'tag': '6100_40463700', 'unit': 'W'}
